@@ -4,12 +4,16 @@ url: "/about/"
 summary: "about"
 ---
 
-Psychiatry registrar. Harvard computational biology. Obsessed with recursive self-improvement - in code, in minds, in civilisation.
+Dr Alistair Quinn - Psychiatry trainee. Harvard computational biology.
 
-In Don't Look Up, a comet is heading for Earth and everyone buries their heads in the sand. This site is the counter-thesis. Major civilisational shifts are underway - AI is reshaping how we think, institutions are failing basic expected value calculations, and the gap between what technology enables and what society permits is widening by the day. We can face this clearly. We can work together. We can look up.
+Obsessed with recursive self-improvement - in code, in consciousness, and in civilisation.
 
-I write about biological and artificial neural networks - and the space where they overlap. Psychiatry through the lens of predictive coding. AI through the lens of someone using it to think, build, and self-improve every day. Ethics under genuine uncertainty - polygenic screening, involuntary treatment, alignment. The statistics of predicting rare events. Systems thinking applied to training, health, and human performance. Why institutions can't say yes to unusual opportunities. What cinema does to your psyche. How to actually use the most powerful tools ever built.
+Major tectonic shifts are underway. AI is reshaping reality, legacy institutions are following outdated scripts, and the gap between emerging capabilities and the structures built to contain them is widening by the day.
 
-The recurring thread is recursive self-improvement. Robert Anton Wilson and John Lilly called it metaprogramming - rewriting your own cognitive software. Now, with AI as a thinking partner, the loop tightens. Each cycle builds on the last. That's what this site documents.
+We can face this clearly. We can work together. We can look up.
 
-Alistair Quinn
+I write about biological and artificial neural networks - and the ways they interact. Essays on statistics. Systems thinking. Health. Human performance. Psychiatry through the lens of predictive coding. Ethics and reasoning under uncertainty. Meaning making and reality selection.
+
+Dr John Lilly called it << metaprogramming >> - rewriting our own cognitive software.
+
+Welcome to the strange loop. Get with the [meta]program.
