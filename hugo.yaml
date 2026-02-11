@@ -1,0 +1,45 @@
+baseURL: https://wecanlookup.org/
+languageCode: en-au
+title: We Can Look Up
+theme: PaperMod
+
+params:
+  description: "Psychiatry, AI, recursive self-improvement, and the things that matter."
+  author: Alistair Quinn
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  defaultTheme: auto
+  ShowToc: true
+
+  homeInfoParams:
+    Title: We Can Look Up
+    Content: >
+      Optimistic, clear-minded engagement with civilisational-scale challenges.
+      Psychiatry. AI. Recursive self-improvement.
+
+  socialIcons:
+    - name: github
+      url: "#"
+
+menu:
+  main:
+    - identifier: archive
+      name: Archive
+      url: /archives/
+      weight: 5
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 15
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
