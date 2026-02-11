@@ -37,7 +37,8 @@ A river thinker hears "dig up a landfill to recover a Bitcoin hard drive" and st
 
 **Asymmetric justice makes it worse.** Zvi Mowshowitz's essential insight: 
 - If you act and it goes wrong, you're punished.
-- If you don't act, no matter what opportunity is lost, nothing happens to you. 
+- If you don't act, no matter what opportunity is lost, nothing happens to you.
+ 
 Under those rules, the only winning move is not to play.
 
 Consider the councillor's decision tree. If they approve the dig and it fails, the headline writes itself: "Council Approves Crypto Treasure Hunt Through Landfill - Finds Nothing." Career damage. Ridicule. Opposition ammunition. If they approve and it works, who gets the credit? Howells does. The council merely _allowed_ something to happen. But if they say no? Nothing happens. No headline. No blame.
