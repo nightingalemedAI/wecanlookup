@@ -16,12 +16,10 @@ params:
   homeInfoParams:
     Title: We Can Look Up
     Content: >
-      Optimistic, clear-minded engagement with civilisational-scale challenges.
-      Psychiatry. AI. Recursive self-improvement.
+      Optimism, clarity and civilisational challenge.
+      Biological and artificial neural networks. Recursive self-improvement.
 
-  socialIcons:
-    - name: github
-      url: "#"
+  hideFooter: true
 
 menu:
   main:
