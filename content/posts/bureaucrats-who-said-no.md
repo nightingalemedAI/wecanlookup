@@ -1,5 +1,5 @@
 ---
-title: "The Bureaucrats Who Said No to £225 Million"
+title: "The Town Council Who Said No to £225 Million"
 date: 2026-02-11
 draft: false
 tags: ["institutions", "decision-making", "expected-value", "asymmetric-justice"]
