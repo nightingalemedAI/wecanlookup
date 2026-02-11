@@ -57,7 +57,11 @@ The loss is distributed across every underfunded school, every shuttered service
 
 Two months after winning in court, the council announced it was closing the landfill and capping it with a solar farm. On the surface: green energy, sustainable development, progress. Functionally: the permanent destruction of the option to ever revisit this decision. An active landfill could, in principle, be excavated by a future council with different priorities. A sealed site with infrastructure on top cannot.
 
+![](/images/sarcophagus.png)
+
 The court made the absurdity official. In January 2025, a High Court judge ruled that under the Control of Pollution Act 1974, the hard drive became council property the moment it entered the landfill. Newport City Council legally owns a device with three-quarters of a billion pounds sitting on it - but they refuse to look for it.
+
+![](/images/courtroom.png)
 
 This is how institutions deal with problems they can't solve: make them unsolvable. The solar farm isn't a solution. It's a sarcophagus. The opportunity dies, under a tomb called progress.
 
