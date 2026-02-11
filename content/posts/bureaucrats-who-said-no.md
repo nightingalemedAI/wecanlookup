@@ -4,6 +4,10 @@ date: 2026-02-11
 draft: false
 tags: ["institutions", "decision-making", "expected-value", "asymmetric-justice"]
 summary: "A Welsh council legally owns a hard drive with £750 million in Bitcoin on it - but refuses to look for it. Three failures of institutional reasoning explain why."
+cover:
+  image: "/images/bureaucrats-who-said-no.png"
+  alt: "The Town Council Who Said No to £225 Million"
+  relative: false
 ---
 
 ## Asymmetric Justice at the Landfill
