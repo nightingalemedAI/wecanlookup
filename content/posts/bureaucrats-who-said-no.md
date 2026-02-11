@@ -4,7 +4,7 @@ date: 2026-02-11
 draft: false
 author: "Alistair Quinn"
 tags: ["institutions", "decision-making", "expected-value", "asymmetric-justice"]
-summary: "A Welsh council legally owns a hard drive with £750 million in Bitcoin on it - but refuses to look for it. Four failures of institutional reasoning explain why."
+summary: "A Welsh council legally owns a hard drive containing £750 million in Bitcoin - but refuses to look for it. Four failures of institutional reasoning explain why."
 cover:
   image: "/images/bureaucrats-who-said-no.png"
   alt: "The Town Council Who Said No to £225 Million"
