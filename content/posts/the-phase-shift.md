@@ -11,7 +11,7 @@ cover:
   relative: false
 ---
 
-*A year of AI milestones in a month, and progress is only getting faster.*
+*A year of AI milestones in a month, and progress is only accelerating.*
 
 ---
 ## I.
