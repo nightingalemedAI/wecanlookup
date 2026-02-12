@@ -61,8 +61,6 @@ Two months after winning in court, the council announced it was closing the land
 
 The court made the absurdity official. In January 2025, a High Court judge ruled that under the Control of Pollution Act 1974, the hard drive became council property the moment it entered the landfill. Newport City Council legally owns a device with three-quarters of a billion pounds sitting on it - but they refuse to look for it.
 
-![](/images/courtroom.png)
-
 This is how institutions deal with problems they can't solve: make them unsolvable. The solar farm isn't a solution. It's a sarcophagus. The opportunity dies, under a tomb called progress.
 
 The hard drive sits under 25,000 cubic metres of rubbish. Soon it will sit under a solar farm as well. Four failures - of calculation, of incentive, of accountability, and finally of concrete and steel - and £750 million rots in the ground. Not because anyone decided it wasn't worth recovering, but because no one could afford to be the person who said yes. The system worked exactly as designed.
