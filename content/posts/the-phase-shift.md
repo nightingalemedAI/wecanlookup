@@ -4,7 +4,7 @@ date: 2026-02-12
 draft: false
 author: "Alistair Quinn"
 tags: ["AI", "existential-risk", "recursive-self-improvement", "AI-safety", "phase-transition"]
-summary: "A year of AI milestones in a month, and progress is only getting faster."
+summary: "A year of AI milestones in a month, and progress is only accelerating."
 cover:
   image: "/images/Russian Robot Dolls.png"
   alt: "The Phase Shift"
